@@ -8,5 +8,5 @@ We used Java Swing for the GUI and used Apache Netbeans IDE to run and test the 
 
 ## Team Members
 
-[Lalsen](https://github.com/Lalsen)
+- [Lalsen](https://github.com/Lalsen)
 
