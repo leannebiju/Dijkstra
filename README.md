@@ -7,5 +7,4 @@ graphs3 is the name of the folder we placed the programs.
 We used Java Swing for the GUI and used Apache Netbeans IDE to run and test the code since it provides an easier and more intuitive approach to coding with Java Swing.
 
 ## Team Members
-@github.com/Lalsen
-@Liean
+
