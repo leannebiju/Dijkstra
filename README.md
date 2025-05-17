@@ -10,3 +10,4 @@ We used Java Swing for the GUI and used Apache Netbeans IDE to run and test the 
 
 - [Lalsen](https://github.com/Lalsen)
 - [Krishnanand](https://github.com/Krishnanand-G)
+- [Leanne](https://github.com/leannebiju)
